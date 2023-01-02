@@ -1,0 +1,1 @@
+Sorting :A Sorting Algorithm is used to arranging the data of list or array into some specific order.

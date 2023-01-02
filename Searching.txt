@@ -1,0 +1,1 @@
+Searching :Searching Algorithms are designed to retrieve an element from any data structure where it is used.
